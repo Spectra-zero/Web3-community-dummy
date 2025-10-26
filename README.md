@@ -45,7 +45,8 @@ Contoh tampilan simulasi komunitas Discord (dummy server):
 | 24 Okt 2025 | Review keseluruhan proyek & update final | ✅ |
 
 📸 Dokumentasi visual aktivitas minggu ini:  
-![Log Screenshot 1](IMG_20251026_110050.png)
+![Log Screenshot 1](IMG_20251026_183624.png
+)
 ![Log Screenshot 2](IMG_20251026_121740.png)
 
 ---
