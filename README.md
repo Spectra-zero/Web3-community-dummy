@@ -47,7 +47,7 @@ Contoh tampilan simulasi komunitas Discord (dummy server):
 📸 Dokumentasi visual aktivitas minggu ini:  
 ![Log Screenshot 1](IMG_20251026_183624.png
 )
-![Log Screenshot 2](IMG_20251026_121740.png)
+![Log Screenshot 2](IMG_20251026_183200.png)
 
 ---
 
