@@ -2,7 +2,7 @@
 
 ### 🎯 Tujuan
 Proyek simulasi ini dibuat oleh **K-SpectraZero** untuk menampilkan *real-world skill* dalam membangun, mengelola, dan menganalisis komunitas Web3.  
-Fokus utama adalah praktik komunikasi digital, engagement, dokumentasi, dan manajemen komunitas seperti yang dilakukan oleh *Community Manager profesional di ekosistem Web3*.
+Fokus utama adalah praktik komunikasi digital, engagement, dokumentasi, dan manajemen komunitas seperti yang dilakukan oleh *Community Manager profesional di ekosistem Web3.*
 
 ---
 
@@ -27,12 +27,26 @@ Fokus utama adalah praktik komunikasi digital, engagement, dokumentasi, dan mana
 
 ## 📸 Screenshot Aktivitas
 Contoh tampilan simulasi komunitas Discord (dummy server):  
-![Discord Screenshot](IMG_20251026_110050.png)
+![Discord Screenshot 1](IMG_20251026_110050.png)
+![Discord Screenshot 2](IMG_20251026_121740.png)
 
 ---
 
 ## 🧾 Activity Log
-📘 Lihat catatan lengkap aktivitas mingguan 👉 [activity-log.md](activity-log.md)
+📘 Lihat catatan lengkap aktivitas mingguan di bawah ini 👇  
+
+### 📆 Catatan Lengkap Aktivitas Mingguan
+| Tanggal | Aktivitas | Status |
+|----------|------------|--------|
+| 20 Okt 2025 | Membuat struktur awal server Discord & role sistem | ✅ |
+| 21 Okt 2025 | Mendesain README.md profesional untuk GitHub | ✅ |
+| 22 Okt 2025 | Upload screenshot dummy server Discord | ✅ |
+| 23 Okt 2025 | Membuat *activity-log.md* untuk dokumentasi mingguan | ✅ |
+| 24 Okt 2025 | Review keseluruhan proyek & update final | ✅ |
+
+📸 Dokumentasi visual aktivitas minggu ini:  
+![Log Screenshot 1](IMG_20251026_110050.png)
+![Log Screenshot 2](IMG_20251026_121740.png)
 
 ---
 
